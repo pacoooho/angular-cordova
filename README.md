@@ -42,3 +42,5 @@ https://www.flipandroid.com/cmo-configurar-la-ruta-android_home-en-ubuntu-propor
 https://stackoverflow.com/questions/29391511/where-is-android-sdk-root-and-how-do-i-set-it
 chrome://newtab/
 https://stackoverflow.com/questions/37300811/android-studio-dev-kvm-device-permission-denied/45749003
+
+## cordova emulate android
